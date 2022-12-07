@@ -1,5 +1,5 @@
 Algoritmo Hotel_ALPA
-	Escribir "buen dia, �cual es su nombre?"
+	Escribir "buen dia, ¿cual es su nombre?"
 	leer nombre
 	Escribir"¿cuantos dias desea hospedarse " nombre " ?"
 	Leer dh
