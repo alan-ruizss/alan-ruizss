@@ -1,9 +1,9 @@
 Algoritmo Hotel_ALPA
-	Escribir "buen dia, ¿cual es su nombre?"
+	Escribir "buen dia, cual es su nombre"
 	leer nombre
-	Escribir"¿cuantos dias desea hospedarse " nombre " ?"
+	Escribir "cuantos dias desea hospedarse" nombre 
 	Leer dh
-	Escribir ""¿Que tipo de habitacion desea seleccionar?"
+	Escribir "Que tipo de habitacion desea seleccionar"
 	Escribir "  1.- individual"
 	Escribir "  2.- Doble"
 	Escribir "  3.- Familiar"
