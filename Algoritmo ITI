@@ -1,0 +1,21 @@
+Algoritmo buen_fin
+	Escribir "ingresar numero al azar obtenido"
+	leer num
+	escribir "total de su compra"
+	leer total 
+	Si num < 50 Entonces
+		descuento = total * .25
+		total = total - descuento
+		Escribir " tu total a pagar es " total
+	SiNo
+		si num >= 50 y (num < 60) Entonces
+			descuento = total * .35
+			total = total - descuento
+			Escribir "tu total a pagar es " total
+			sino
+				descuento = total * .40
+				total = total - descuento
+				Escribir " tu total a pagar es " total
+		FinSi
+	Fin Si
+FinAlgoritmo
